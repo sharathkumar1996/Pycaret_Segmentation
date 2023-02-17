@@ -1,4 +1,5 @@
 ## importing required libraries
+import pycaret 
 from pycaret.clustering import *
 import streamlit as st
 import pandas as pd
